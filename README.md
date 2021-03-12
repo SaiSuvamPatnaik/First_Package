@@ -1,6 +1,6 @@
 # Custom-Toast Box
 
-A new Flutter package.
+My First Trial PAackage which i tried to push into pub.dev
 
 ## Getting Started
 
