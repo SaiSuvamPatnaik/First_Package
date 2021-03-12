@@ -2,7 +2,7 @@ name: trial_package
 description: To be able to show a custom alert box easly.
 version: 0.0.1
 publish_to: https://pub.dev/\
-homepage:
+homepage: https://github.com/SaiSuvamPatnaik/First_Package.git
 
 
 environment:
